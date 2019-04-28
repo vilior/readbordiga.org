@@ -3,6 +3,7 @@
 </p>
 
 - # [The fundamentals of revolutionary communism](https://libcom.org/library/fundamentals-revolutionary-communism-amadeo-bordiga)
+- # [Doctrine of the Body Possessed by the Devil](https://www.marxists.org/archive/bordiga/works/1951/doctrine.htm)
 - # [Seize Power or Seize the Factory?](https://www.marxists.org/archive/bordiga/works/1920/seize-power.htm)
 
 Side dishes:
